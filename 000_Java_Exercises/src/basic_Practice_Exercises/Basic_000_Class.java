@@ -7,8 +7,9 @@ public class Basic_000_Class {
 		// TODO Auto-generated method stub
 		System.out.println("Calling Class");
 	
-		//comment 1
-		//Comment 2
+		//comment 1 From Server to client
+		//Comment 2 From Server to client
+		//Comment 3 From client to server
 		
 		Basic_001_Class Obj1 = new Basic_001_Class();
 		
