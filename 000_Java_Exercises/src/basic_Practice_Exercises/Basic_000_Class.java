@@ -18,6 +18,7 @@ public class Basic_000_Class {
 		
 		FirstMethod(1);
 		SecondMethod(2);
+		FirstMethod(1);
 		Basic_001_Class.ThirdMethod(3);
 		Obj1.FourthMethod(4);
 		Basic_001_Class.ThirdMethod(5);
