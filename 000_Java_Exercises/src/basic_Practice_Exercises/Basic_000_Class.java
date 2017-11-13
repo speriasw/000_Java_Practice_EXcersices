@@ -11,6 +11,9 @@ public class Basic_000_Class {
 		//Comment 2 From Server to client
 		//Comment 3 From client to server
 		
+		//Comment 4 From client to server, as part of New Rel1
+		
+		
 		Basic_001_Class Obj1 = new Basic_001_Class();
 		
 		FirstMethod(1);
