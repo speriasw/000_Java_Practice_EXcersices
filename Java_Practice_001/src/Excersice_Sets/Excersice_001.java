@@ -4,7 +4,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Excersice_001 {
-
+//Comment
 	public static void main(String[] args) 
 	{		
 		PayRateList();
