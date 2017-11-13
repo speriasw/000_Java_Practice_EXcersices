@@ -4,7 +4,8 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Excersice_001 {
-//Comment
+//Comment 1
+	//Comment 2
 	public static void main(String[] args) 
 	{		
 		PayRateList();
